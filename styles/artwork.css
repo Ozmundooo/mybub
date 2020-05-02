@@ -1,0 +1,12 @@
+img{
+    height: 400px;
+    width: 350px;
+}
+.border{
+    border: 30px black;
+}
+
+.pouting{
+    width: 45px;
+    height: 45px;
+}
